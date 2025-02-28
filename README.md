@@ -1,3 +1,4 @@
+
 # Project Setup Guide
 
 ## Submission Video
@@ -17,6 +18,8 @@ You can play it using any media player or view it directly in your code editor i
 ## How to Run the Project
 
 ### Backend (Laravel)
+
+[Repo Link](https://github.com/jooabbas99/laravel-realworld-example-app)
 
 #### 1. Clone the Project
 
@@ -60,7 +63,7 @@ The backend will be available at `http://127.0.0.1:8000/`.
 ---
 
 ### Frontend (React or Vue)
-
+[Repo Link](https://github.com/jooabbas99/react-query-realworld)
 #### 1. Clone the Project
 
 ```bash
